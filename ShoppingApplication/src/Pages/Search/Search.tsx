@@ -1,12 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { View, Text } from 'react-native';
 
-type Props = {}
+import styles from './Search-style';
+import SearchInput from '../../Componetns/SearchInput';
+import ProductCard from '../../Componetns/ProductCard';
 
-const Search = (props: Props) => {
+const Search = () => {
+    const [text, setText] = useState<any>();
+
     return (
         <View>
-            <Text>Search</Text>
+            <SearchInput
+                onChangeText={setText}
+            />
+            <ProductCard />
         </View>
     )
 }

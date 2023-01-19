@@ -1,13 +1,25 @@
 import React, { FC } from 'react'
-import { View, Text } from 'react-native'
+import { Text, TouchableOpacity, Image } from 'react-native'
+import { CategoriesProps } from '../../types';
 
-type Props = {}
+import styles from './Categories-style';
 
-const Categories: FC = (props: Props) => {
+const Categories: FC<CategoriesProps> = ({ onPress, image, title }) => {
     return (
-        <View>
-            <Text>Categories</Text>
-        </View>
+        <TouchableOpacity
+            onPress={onPress}
+            style={styles.container}
+        >
+            <Image
+                source={{ uri: image }}
+                style={styles.image}
+            />
+            <Text
+                style={styles.title}
+            >
+                {title}
+            </Text>
+        </TouchableOpacity>
     )
 }
 

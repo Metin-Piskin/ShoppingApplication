@@ -9,14 +9,14 @@ const CampaignThumbnail: FC<CampaignThumbnailProps> = ({ onPress }) => {
         <View style={styles.container}>
             <View style={styles.innercontainer}>
                 <Text style={styles.text}>
-                    Kampanyalar
+                    Campaig
                 </Text>
                 <TouchableOpacity
                     style={styles.buttoncontainer}
                     onPress={onPress}
                 >
                     <Text style={styles.buttontext}>
-                        Tümünü Gör
+                        See all
                     </Text>
                 </TouchableOpacity>
             </View>

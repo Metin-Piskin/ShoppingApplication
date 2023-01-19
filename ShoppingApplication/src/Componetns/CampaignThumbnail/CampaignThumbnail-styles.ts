@@ -8,7 +8,9 @@ export default StyleSheet.create({
         paddingHorizontal: 10,
         marginTop: 10
     },
-    text: {},
+    text: {
+        color: '#4A6572'
+    },
     buttoncontainer: {},
     buttontext: {
         color: '#F9AA33'

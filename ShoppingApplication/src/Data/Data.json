@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "Title",
+        "categori":"Categori",
+        "price": "10TL",
+        "image": "url",
+        "detail": {
+            "images": {
+                "imagebir": "url",
+                "imageiki": "url",
+                "imageüç": "url"
+            },
+            "detailtext": "text"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Title",
+        "categori":"Categori",
+        "price": "10TL",
+        "image": "url",
+        "detail": {
+            "images": {
+                "imagebir": "url",
+                "imageiki": "url",
+                "imageüç": "url"
+            },
+            "detailtext": "text"
+        }
+    }
+]

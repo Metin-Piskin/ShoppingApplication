@@ -14,6 +14,7 @@ const Tab = createBottomTabNavigator();
 
 
 import Home from "./Pages/Home";
+import Categori from "./Pages/Categori";
 import Detail from "./Pages/Detail";
 
 import Search from './Pages/Search';
@@ -24,6 +25,7 @@ const HomeStack = () => {
   return (
     <Stack.Navigator screenOptions={{ headerShown: false }} >
       <Stack.Screen name="Home" component={Home} />
+      <Stack.Screen name="Categori" component={Categori} />
       <Stack.Screen name="Detail" component={Detail} />
     </Stack.Navigator>
   )
