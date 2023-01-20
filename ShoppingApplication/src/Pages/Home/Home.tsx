@@ -4,9 +4,9 @@ import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types'
 
-type HomeScreenProps = NativeStackNavigationProp<RootStackParamList, 'Home'>;
+type HomeScreenProps = NativeStackNavigationProp<RootStackParamList, 'TabBar'>;
 
-import Header from '../../Componetns/Header';
+import HomeHeader from '../../Componetns/Headers/Header';
 import CampaignThumbnail from '../../Componetns/CampaignThumbnail';
 import Categories from '../../Componetns/Categories';
 import AboutUs from '../../Componetns/AboutUs';
@@ -21,7 +21,7 @@ const Home = () => {
     return (
         <ScrollView>
             <StatusBar backgroundColor={'#4A6572'} />
-            <Header />
+            <HomeHeader title='Shopping' />
             <CampaignThumbnail
                 onPress={() => null}
             />
@@ -35,7 +35,7 @@ const Home = () => {
                             <Categories
                                 title={item.title}
                                 image={item.image}
-                                onPress={() => navigation.navigate('Categori', { item })}
+                                onPress={() => navigation.navigate('Categori', { item: item })}
                                 key={item.id}
                             />
                         )

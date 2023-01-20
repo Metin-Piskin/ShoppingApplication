@@ -1,16 +1,52 @@
 import React from 'react'
 import { View, Text } from 'react-native'
-import { useRoute, RouteProp } from '@react-navigation/native'
+import { useRoute, RouteProp, useNavigation } from '@react-navigation/native'
+import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types'
 
 type DetailsScreenRouteProp = RouteProp<RootStackParamList, 'Detail'>;
+type SearchScreenRouteProp = RouteProp<RootStackParamList, 'Detail'>;
+type DetailScreenProps = NativeStackNavigationProp<RootStackParamList, 'Detail'>;
+
+
+import DetailHeader from '../../Componetns/Headers/HeaderBack';
+import DetailComponet from '../../Componetns/DetailComponet';
 
 const Detail = () => {
-    const route = useRoute<DetailsScreenRouteProp>();
-    const { name } = route.params;
+    const DetailsRoute = useRoute<DetailsScreenRouteProp>();
+    const SearchRoute = useRoute<SearchScreenRouteProp>();
+    const navigation = useNavigation<DetailScreenProps>();
+    const { Citem } = DetailsRoute.params;
+    const { Sitem } = SearchRoute.params;
+
     return (
         <View>
-            <Text>{name}</Text>
+
+            {
+                Citem &&
+                <>
+                    <DetailHeader
+                        title={Citem.title}
+                        onPress={() => navigation.goBack()}
+                    />
+                    <DetailComponet
+                        prop={Citem}
+                    />
+                </>
+            }
+            {
+                Sitem &&
+                <>
+                    <DetailHeader
+                        title={Sitem.title}
+                        onPress={() => navigation.goBack()}
+                    />
+                    <DetailComponet
+                        prop={Sitem}
+                    />
+                </>
+            }
+
         </View>
     )
 }

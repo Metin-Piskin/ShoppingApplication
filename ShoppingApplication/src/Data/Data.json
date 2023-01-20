@@ -1,10 +1,25 @@
 [
     {
         "id": 0,
-        "title": "Title",
-        "categori":"Categori",
+        "title": "Mont",
+        "categori": "Mont",
         "price": "10TL",
-        "image": "url",
+        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "detail": {
+            "images": [
+                "url",
+                "url",
+                "url"
+            ],
+            "detailtext": "text"
+        }
+    },
+    {
+        "id": 1,
+        "title": "Pantolon",
+        "categori": "Pantolon",
+        "price": "10TL",
+        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
         "detail": {
             "images": {
                 "imagebir": "url",
@@ -16,10 +31,55 @@
     },
     {
         "id": 2,
-        "title": "Title",
-        "categori":"Categori",
+        "title": "Mont",
+        "categori": "Mont",
         "price": "10TL",
-        "image": "url",
+        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "detail": {
+            "images": {
+                "imagebir": "url",
+                "imageiki": "url",
+                "imageüç": "url"
+            },
+            "detailtext": "text"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Pantolon",
+        "categori": "Pantolon",
+        "price": "10TL",
+        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
+        "detail": {
+            "images": {
+                "imagebir": "url",
+                "imageiki": "url",
+                "imageüç": "url"
+            },
+            "detailtext": "text"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Mont",
+        "categori": "Mont",
+        "price": "10TL",
+        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "detail": {
+            "images": {
+                "imagebir": "url",
+                "imageiki": "url",
+                "imageüç": "url"
+            },
+            "detailtext": "text"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Pantolon",
+        "categori": "Pantolon",
+        "price": "10TL",
+        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
         "detail": {
             "images": {
                 "imagebir": "url",

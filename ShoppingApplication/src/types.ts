@@ -1,12 +1,11 @@
 export type RootStackParamList = {
-    Home: undefined,
+    TabBar: undefined,
     Detail: {
-        name: string;
+        Citem?: any;
+        Sitem?: any;
     }
     Categori: {
-        item: {
-            title: string;
-        }
+        item: any;
     }
 };
 
@@ -22,4 +21,24 @@ export type CategoriesProps = {
 
 export type SearchInputProps = {
     onChangeText: any
+};
+
+export type ProductCardProps = {
+    image: string;
+    title: string;
+    price: string;
+    onPress: () => void;
+};
+
+export type HeaderProps = {
+    title: string;
+};
+
+export type HeaderBackProps = {
+    onPress: () => void;
+    title: string;
+};
+
+export type DetailComponetProps = {
+    prop: any;
 };
