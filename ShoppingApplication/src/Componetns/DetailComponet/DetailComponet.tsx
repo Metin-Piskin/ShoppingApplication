@@ -7,7 +7,7 @@ const DetailComponet: FC<DetailComponetProps> = ({ prop }) => {
         <View>
             <Text>{prop.title}</Text>
             <Text>{prop.categori}</Text>
-            <Text>{prop.price}</Text>
+            <Text>{prop.price}₺</Text>
             <Text>{prop.image}</Text>
         </View>
     )

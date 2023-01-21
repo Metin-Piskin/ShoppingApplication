@@ -20,13 +20,13 @@ export type CategoriesProps = {
 };
 
 export type SearchInputProps = {
-    onChangeText: any
+    onChangeText: any;
+    disabled: any;
+    ModalOpenPress: () => void;
 };
 
 export type ProductCardProps = {
-    image: string;
-    title: string;
-    price: string;
+    item: any;
     onPress: () => void;
 };
 

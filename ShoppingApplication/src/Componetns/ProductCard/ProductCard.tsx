@@ -4,21 +4,24 @@ import { ProductCardProps } from '../../types';
 
 import styles from './ProductCard-style';
 
-const ProductCard: FC<ProductCardProps> = ({ image, onPress, price, title }) => {
+const ProductCard: FC<ProductCardProps> = ({ onPress, item}) => {
     return (
         <TouchableOpacity
             onPress={onPress}
             style={styles.container}
         >
             <Image
-                source={{ uri: image }}
+                source={{ uri: item.image }}
                 style={styles.image}
             />
             <Text style={styles.title}>
-                {title}
+                {item.title}
             </Text>
             <Text style={styles.price}>
-                {price}
+                {item.price}₺
+            </Text>
+            <Text style={styles.price}>
+                {item.puan}/5
             </Text>
         </TouchableOpacity>
     )

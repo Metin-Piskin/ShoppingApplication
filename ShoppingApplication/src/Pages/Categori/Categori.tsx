@@ -35,9 +35,7 @@ const Categori = () => {
                         return (
                             <ProductCard
                                 onPress={() => navigation.navigate('Detail', { Citem: item })}
-                                image={item.image}
-                                title={item.title}
-                                price={item.price}
+                                item={item}
                                 key={item.id}
                             />
                         )

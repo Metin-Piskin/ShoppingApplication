@@ -1,92 +1,92 @@
 [
     {
-        "id":0,
-        "image":"https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
-        "title":"Mont"
+        "id": 0,
+        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "title": "Mont"
     },
     {
-        "id":1,
-        "image":"https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
-        "title":"Pantolon"
+        "id": 1,
+        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
+        "title": "Pantolon"
     },
     {
-        "id":2,
-        "image":"https://ayb.akinoncdn.com/products/2022/10/10/2161954/041c185a-311a-4b7a-ae43-e7da649fdd12_size780x780_quality60_cropCenter.jpg",
-        "title":"Spor Ayakkabı"
+        "id": 2,
+        "image": "https://ayb.akinoncdn.com/products/2022/10/10/2161954/041c185a-311a-4b7a-ae43-e7da649fdd12_size780x780_quality60_cropCenter.jpg",
+        "title": "Spor Ayakkabı"
     },
     {
-        "id":3,
-        "image":"https://www.tezenis.com/dw/image/v2/BCXQ_PRD/on/demandware.static/-/Sites-TEZ_EC_COM/default/dwdb4da871/images/2MM15C9120-F.jpg?sw=600&sfrm=jpeg",
-        "title":"T-Shirt"
+        "id": 3,
+        "image": "https://www.tezenis.com/dw/image/v2/BCXQ_PRD/on/demandware.static/-/Sites-TEZ_EC_COM/default/dwdb4da871/images/2MM15C9120-F.jpg?sw=600&sfrm=jpeg",
+        "title": "T-Shirt"
     },
     {
-        "id":4,
-        "image":"https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff4%2F5a%2Ff45a283737b4030931d720ae30489ce6e486b588.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
-        "title":"Kazak"
+        "id": 4,
+        "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff4%2F5a%2Ff45a283737b4030931d720ae30489ce6e486b588.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "title": "Kazak"
     },
     {
-        "id":5,
-        "image":"https://14231c.cdn.akinoncloud.com/products/2021/08/17/94560/2c7a72b7-49be-4eac-99a8-3603abc3ac5a_size780x780_cropCenter.jpg",
-        "title":"Deri Ceket"
+        "id": 5,
+        "image": "https://14231c.cdn.akinoncloud.com/products/2021/08/17/94560/2c7a72b7-49be-4eac-99a8-3603abc3ac5a_size780x780_cropCenter.jpg",
+        "title": "Deri Ceket"
     },
     {
-        "id":6,
-        "image":"https://sarar.com/sartoria-howard-lacivert-kaban-4118-kaban-sartoria-3121-41-B.jpg",
-        "title":"Kaban"
+        "id": 6,
+        "image": "https://sarar.com/sartoria-howard-lacivert-kaban-4118-kaban-sartoria-3121-41-B.jpg",
+        "title": "Kaban"
     },
     {
-        "id":7,
-        "image":"https://dfcdn.defacto.com.tr/7/V5055AZ_NS_KR1_03_01.jpg",
-        "title":"Çorap"
+        "id": 7,
+        "image": "https://dfcdn.defacto.com.tr/7/V5055AZ_NS_KR1_03_01.jpg",
+        "title": "Çorap"
     },
     {
-        "id":8,
-        "image":"https://productimages.hepsiburada.net/s/131/600-800/110000082273136.jpg",
-        "title":"Bot"
+        "id": 8,
+        "image": "https://productimages.hepsiburada.net/s/131/600-800/110000082273136.jpg",
+        "title": "Bot"
     },
     {
-        "id":9,
-        "image":"https://romancdn.sysrun.net/Content/ProductImage/Original/637698954155360670-8681822222805_1.jpg",
-        "title":"Etek"
+        "id": 9,
+        "image": "https://romancdn.sysrun.net/Content/ProductImage/Original/637698954155360670-8681822222805_1.jpg",
+        "title": "Etek"
     },
     {
-        "id":10,
-        "image":"https://productimages.hepsiburada.net/s/103/600-800/110000046362295.jpg",
-        "title":"Sweatshirt"
+        "id": 10,
+        "image": "https://productimages.hepsiburada.net/s/103/600-800/110000046362295.jpg",
+        "title": "Sweatshirt"
     },
     {
-        "id":11,
-        "image":"https://st-tommy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mw0mw283250gz-oxford-fil-coupe-casual-gomlek-638035889064386130.jpg",
-        "title":"Gömlek"
+        "id": 11,
+        "image": "https://st-tommy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mw0mw283250gz-oxford-fil-coupe-casual-gomlek-638035889064386130.jpg",
+        "title": "Gömlek"
     },
     {
-        "id":12,
-        "image":"https://contents.mediadecathlon.com/p1865249/k$11f5f112f73105b061d096c8c5b46a53/sq/taytlar.jpg?format=auto&f=800x0",
-        "title":"Tayt"
+        "id": 12,
+        "image": "https://contents.mediadecathlon.com/p1865249/k$11f5f112f73105b061d096c8c5b46a53/sq/taytlar.jpg?format=auto&f=800x0",
+        "title": "Tayt"
     },
     {
-        "id":13,
-        "image":"https://www.tonymontana.com/images/urunler/baskili-erkek-sort-mayo-3137-16286638940-1000.jpg",
-        "title":"Şort"
+        "id": 13,
+        "image": "https://www.tonymontana.com/images/urunler/baskili-erkek-sort-mayo-3137-16286638940-1000.jpg",
+        "title": "Şort"
     },
     {
-        "id":14,
-        "image":"https://akn-spx.b-cdn.net/products/2021/09/23/695480/ebbefce7-9cde-4cab-8e75-2cf1fc7ffee9.jpg",
-        "title":"Yağmurluk"
+        "id": 14,
+        "image": "https://akn-spx.b-cdn.net/products/2021/09/23/695480/ebbefce7-9cde-4cab-8e75-2cf1fc7ffee9.jpg",
+        "title": "Yağmurluk"
     },
     {
-        "id":15,
-        "image":"https://cdn-suwen.mncdn.com/Content/Images/Thumbs/0018255_teddy-bear-erkek-cocuk-pijama-takimi-kirmizi-ekoseli-shc23380660a957-4851.jpeg",
-        "title":"Pijama"
+        "id": 15,
+        "image": "https://cdn-suwen.mncdn.com/Content/Images/Thumbs/0018255_teddy-bear-erkek-cocuk-pijama-takimi-kirmizi-ekoseli-shc23380660a957-4851.jpeg",
+        "title": "Pijama"
     },
     {
-        "id":16,
-        "image":"https://konyali.mncdn.com/mnresize/850/-/konyalisaat/products/SCK07.05079.jpg",
-        "title":"Kol Saati"
+        "id": 16,
+        "image": "https://konyali.mncdn.com/mnresize/850/-/konyalisaat/products/SCK07.05079.jpg",
+        "title": "Kol Saati"
     },
     {
-        "id":17,
-        "image":"https://productimages.hepsiburada.net/s/42/375/10747961016370.jpg",
-        "title":"Güneş Gözlüğü"
+        "id": 17,
+        "image": "https://productimages.hepsiburada.net/s/42/375/10747961016370.jpg",
+        "title": "Güneş Gözlüğü"
     }
 ]

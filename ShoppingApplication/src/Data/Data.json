@@ -3,7 +3,8 @@
         "id": 0,
         "title": "Mont",
         "categori": "Mont",
-        "price": "10TL",
+        "price": 10,
+        "puan": 3.1,
         "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
         "detail": {
             "images": [
@@ -18,7 +19,8 @@
         "id": 1,
         "title": "Pantolon",
         "categori": "Pantolon",
-        "price": "10TL",
+        "price": 30,
+        "puan": 3.5,
         "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
         "detail": {
             "images": {
@@ -33,7 +35,8 @@
         "id": 2,
         "title": "Mont",
         "categori": "Mont",
-        "price": "10TL",
+        "price": 53,
+        "puan": 3,
         "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
         "detail": {
             "images": {
@@ -48,7 +51,8 @@
         "id": 3,
         "title": "Pantolon",
         "categori": "Pantolon",
-        "price": "10TL",
+        "price": 36,
+        "puan": 4.7,
         "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
         "detail": {
             "images": {
@@ -63,7 +67,8 @@
         "id": 4,
         "title": "Mont",
         "categori": "Mont",
-        "price": "10TL",
+        "price": 23,
+        "puan": 1.8,
         "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
         "detail": {
             "images": {
@@ -78,7 +83,8 @@
         "id": 5,
         "title": "Pantolon",
         "categori": "Pantolon",
-        "price": "10TL",
+        "price": 55,
+        "puan": 2.3,
         "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
         "detail": {
             "images": {
