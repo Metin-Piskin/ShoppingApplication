@@ -1,5 +1,9 @@
 export type RootStackParamList = {
-    TabBar: undefined,
+    Login: undefined;
+    SignIn: undefined;
+    AuthStack: undefined;
+    
+    TabBar: undefined;
     Detail: {
         Citem?: any;
         Sitem?: any;
@@ -41,4 +45,8 @@ export type HeaderBackProps = {
 
 export type DetailComponetProps = {
     prop: any;
+};
+
+export type UserAboutProps = {
+    EditPress: () => void;
 };

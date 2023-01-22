@@ -12,6 +12,8 @@ import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 const Stack = createNativeStackNavigator<RootStackParamList>();
 const Tab = createBottomTabNavigator();
 
+import Login from "./Pages/Auth/Login";
+import SignIn from "./Pages/Auth/SignIn";
 
 import Home from "./Pages/Home";
 import Categori from "./Pages/Categori";
@@ -20,6 +22,19 @@ import Detail from "./Pages/Detail";
 import Search from './Pages/Search';
 import Favorites from './Pages/Favorites';
 import Basket from './Pages/Basket';
+
+const AuthStack = () => {
+  return (
+    <Stack.Navigator
+      screenOptions={{
+        headerShown: false,
+      }}
+    >
+      <Stack.Screen name="Login" component={Login} />
+      <Stack.Screen name="SignIn" component={SignIn} />
+    </Stack.Navigator>
+  )
+}
 
 const TabBar = () => {
   return (
@@ -86,6 +101,7 @@ const Router = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator screenOptions={{ headerShown: false }} >
+        <Stack.Screen name="AuthStack" component={AuthStack} />
         <Stack.Screen name="TabBar" component={TabBar} />
         <Stack.Screen name="Categori" component={Categori} />
         <Stack.Screen name="Detail" component={Detail} />

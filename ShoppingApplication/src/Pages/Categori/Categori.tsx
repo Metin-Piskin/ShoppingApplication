@@ -22,7 +22,6 @@ const Categori = () => {
         setVeri([...Data.filter(e => e.categori === item.title)])
     }, [])
 
-
     return (
         <View>
             <CategoriHeader
