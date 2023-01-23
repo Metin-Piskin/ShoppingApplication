@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity } from 'react-native';
+import { View, Text, TouchableOpacity, Button } from 'react-native';
+import auth from "@react-native-firebase/auth";
 
 import UserAbout from '../../Componetns/UserAbout';
 import SearchInput from '../../Componetns/SearchInput';
@@ -40,6 +41,10 @@ const Basket = () => {
                     ))
                 }
             </View>
+            <Button
+                title='Exit'
+                onPress={() => auth().signOut()}
+            />
         </View>
     )
 }
