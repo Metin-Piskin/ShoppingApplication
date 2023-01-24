@@ -3,14 +3,15 @@ import { StyleSheet, Dimensions } from "react-native";
 export default StyleSheet.create({
     logincontainer: {
         backgroundColor: '#4A6572',
-        position: 'absolute',
-        width: Dimensions.get('screen').width - 20,
-        maxWidth: Dimensions.get('screen').width - 20,
-        marginLeft: 10,
-        top: Dimensions.get('screen').width / 1.5,
-        zIndex: 999,
-        paddingVertical: 20,
+        //position: 'absolute',
+        //width: Dimensions.get('screen').width - 20,
+        //maxWidth: Dimensions.get('screen').width - 20,
+        //marginLeft: 10,
+        //top: Dimensions.get('screen').width / 1.5,
+        //zIndex: 999,
+        paddingVertical: 10,
         paddingHorizontal: 10,
+        marginHorizontal:10,
         borderRadius: 10
     },
     inputcontainer: {

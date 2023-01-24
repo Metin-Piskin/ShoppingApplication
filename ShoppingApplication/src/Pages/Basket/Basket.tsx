@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, Button } from 'react-native';
 import auth from "@react-native-firebase/auth";
+import firestore from '@react-native-firebase/firestore';
 
 import UserAbout from '../../Componetns/UserAbout';
 import SearchInput from '../../Componetns/SearchInput';
@@ -15,10 +16,30 @@ const Basket = () => {
         setStatus(status);
     }
 
+    const [CurrentLoggedInUser, setCurrentLoggedInUser] = useState<any>(true)
+    const [loading, setLoading] = useState<any>(true);
+
+    useEffect(() => {
+        const user = auth().currentUser
+        firestore()
+            .collection('users')
+            .where('owner_uid', '==', user?.uid)
+            .get()
+            .then(querySnapshot => {
+                querySnapshot.forEach(documentSnapshot => {
+                    setCurrentLoggedInUser(documentSnapshot.data());
+                });
+            });
+        if (!!CurrentLoggedInUser) {
+            setLoading(false);
+        }
+    }, [])
+
     return (
         <View>
             <UserAbout
                 EditPress={() => null}
+                item={CurrentLoggedInUser}
             />
             <SearchInput
                 onChangeText={null}

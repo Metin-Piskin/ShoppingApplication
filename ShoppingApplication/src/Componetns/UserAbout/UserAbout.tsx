@@ -5,7 +5,9 @@ import { UserAboutProps } from '../../types';
 
 import styles from './UserAbout-style';
 
-const UserAbout: FC<UserAboutProps> = ({ EditPress }) => {
+const ppimage = 'https://t4.ftcdn.net/jpg/01/17/95/91/360_F_117959178_mOp22kjhdhWdoSoePHPafN7GLUYyvFNY.jpg'
+
+const UserAbout: FC<UserAboutProps> = ({ EditPress, item }) => {
     return (
         <View style={styles.container}>
             <TouchableOpacity
@@ -19,7 +21,9 @@ const UserAbout: FC<UserAboutProps> = ({ EditPress }) => {
                 />
             </TouchableOpacity>
             <Image
-                source={{ uri: 'https://avatars.githubusercontent.com/u/85956297?v=4' }}
+                source={{
+                    uri: item == null ? (ppimage) : (item.profile_picture)
+                }}
                 style={styles.image}
             />
             <View style={styles.innercontainer}>
@@ -28,7 +32,7 @@ const UserAbout: FC<UserAboutProps> = ({ EditPress }) => {
                         Name Surname:
                     </Text>
                     <Text style={styles.text}>
-                        Metin Pişkin
+                        {item.name} {item.surname}
                     </Text>
                 </View>
                 <View style={styles.innercontainers}>
@@ -36,7 +40,7 @@ const UserAbout: FC<UserAboutProps> = ({ EditPress }) => {
                         Phone:
                     </Text>
                     <Text style={styles.text}>
-                        05356477957
+                        {item.phone}
                     </Text>
                 </View>
                 <View style={styles.innercontainers}>
@@ -44,15 +48,7 @@ const UserAbout: FC<UserAboutProps> = ({ EditPress }) => {
                         E-mail:
                     </Text>
                     <Text style={styles.text}>
-                        metin@mail.com
-                    </Text>
-                </View>
-                <View style={styles.innercontainers}>
-                    <Text style={styles.titletext}>
-                        Pasword:
-                    </Text>
-                    <Text style={styles.text}>
-                        ********
+                        {item.email}
                     </Text>
                 </View>
             </View>

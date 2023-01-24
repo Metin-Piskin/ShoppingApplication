@@ -2,7 +2,7 @@ export type RootStackParamList = {
     Login: undefined;
     SignIn: undefined;
     AuthStack: undefined;
-    
+
     TabBar: undefined;
     Detail: {
         Citem?: any;
@@ -49,4 +49,5 @@ export type DetailComponetProps = {
 
 export type UserAboutProps = {
     EditPress: () => void;
+    item: any;
 };

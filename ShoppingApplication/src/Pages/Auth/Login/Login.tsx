@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Alert } from 'react-native';
+import LinearGradient from 'react-native-linear-gradient';
 import { Formik } from 'formik';
 import * as Yup from 'yup';
 import auth from "@react-native-firebase/auth";
@@ -56,8 +57,20 @@ const Login = () => {
         password: Yup.string().required().min(6, 'Password must be at least 6 characters'),
     });
     return (
-        <>
-            <View style={{ flex: 1, backgroundColor: "#F9AA33" }}></View>
+        <LinearGradient
+            colors={[
+                "#F9AA33",
+                "#F9AA33",
+                '#232F34',
+                '#232F34',
+                '#232F34'
+            ]}
+            style={{
+                flex: 1,
+                justifyContent: 'center',
+
+            }}
+        >
             <View style={styles.logincontainer}>
                 <Formik
                     initialValues={initialFormValues}
@@ -137,13 +150,12 @@ const Login = () => {
                                     Hesabınız yok mu?
                                 </Text>
                             </TouchableOpacity>
-
                         </>
                     )}
                 </Formik>
             </View>
-            <View style={{ flex: 1, backgroundColor: '#232F34' }}></View>
-        </>
+        </LinearGradient>
+
     )
 }
 
