@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity } from 'react-native';
+import { View, Text, TouchableOpacity, ScrollView } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import Entypo from 'react-native-vector-icons/Entypo';
@@ -110,19 +110,23 @@ const Search = () => {
                 }
 
             </View>
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap', zIndex: -5 }}>
-                {
-                    products.map((item) => {
-                        return (
-                            <ProductCard
-                                onPress={() => navigation.navigate('Detail', { Sitem: item })}
-                                item={item}
-                                key={item.id}
-                            />
-                        )
-                    })
-                }
-            </View>
+            <ScrollView
+                style={{ marginBottom: 135, zIndex: -5 }}
+            >
+                <View style={{ flexDirection: 'row', flexWrap: 'wrap' }}>
+                    {
+                        products.map((item) => {
+                            return (
+                                <ProductCard
+                                    onPress={() => navigation.navigate('Detail', { Sitem: item })}
+                                    item={item}
+                                    key={item.id}
+                                />
+                            )
+                        })
+                    }
+                </View>
+            </ScrollView>
         </View>
     )
 }

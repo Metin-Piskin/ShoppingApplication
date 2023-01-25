@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { View, ScrollView } from 'react-native'
 import { useRoute, RouteProp, useNavigation } from '@react-navigation/native'
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types'
@@ -20,8 +20,7 @@ const Detail = () => {
     const { Sitem } = SearchRoute.params;
 
     return (
-        <View>
-
+        <ScrollView>
             {
                 Citem &&
                 <>
@@ -46,8 +45,7 @@ const Detail = () => {
                     />
                 </>
             }
-
-        </View>
+        </ScrollView>
     )
 }
 

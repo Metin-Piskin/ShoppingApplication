@@ -1,98 +1,875 @@
 [
     {
         "id": 0,
-        "title": "Mont",
-        "categori": "Mont",
-        "price": 10,
-        "puan": 3.1,
-        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
+        "categori": "T-Shirt",
+        "price": 90,
+        "puan": 4.9,
+        "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "detail": {
             "images": [
-                "url",
-                "url",
-                "url"
+                "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
+                "https://productimages.hepsiburada.net/s/68/1000/110000009631893.jpg",
+                "https://productimages.hepsiburada.net/s/68/1000/110000009631894.jpg",
+                "https://productimages.hepsiburada.net/s/68/1000/110000009631895.jpg"
             ],
-            "detailtext": "text"
+            "detailtext": "Mavi nin Erkek Koleksiyonundan Mavi Jeans Baskılı Kırmızı Tişört"
         }
     },
     {
         "id": 1,
-        "title": "Pantolon",
-        "categori": "Pantolon",
-        "price": 30,
-        "puan": 3.5,
-        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
+        "title": "Kuşaklı Içi Şortlu Etek Siyah",
+        "categori": "Etek",
+        "price": 279,
+        "puan": 4.9,
+        "image": "https://productimages.hepsiburada.net/s/314/1000/110000307072162.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "detail": {
-            "images": {
-                "imagebir": "url",
-                "imageiki": "url",
-                "imageüç": "url"
-            },
-            "detailtext": "text"
+            "images": [
+                "https://productimages.hepsiburada.net/s/314/1000/110000307072162.jpg",
+                "https://productimages.hepsiburada.net/s/314/1000/110000307072164.jpg",
+                "https://productimages.hepsiburada.net/s/314/1000/110000307072165.jpg",
+                "https://productimages.hepsiburada.net/s/314/1000/110000307072166.jpg"
+            ],
+            "detailtext": " Kumaş Bilgisi Elastan %8, Polyester %92 Makinede 30° Yıkayabilirsiniz Gerektiğinde Klorsuz Çamaşır Suyu Konabilir Kurutma Makinesinde , Normal, Düşük Isıda Düşük Isıda Ütüleyiniz Kuru Temizleme , Az Çözücü Ürün Boy Ölçüsü 40 cm Ürün Göğüs Ölçüsü cm Ürün Bel Ölçüsü 34 cm Ürün Basen Ölçüsü cm"
         }
     },
     {
         "id": 2,
-        "title": "Mont",
-        "categori": "Mont",
-        "price": 53,
-        "puan": 3,
-        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "title": "Mavi Batman Baskılı Siyah Sweatshirt",
+        "categori": "Sweatshirt",
+        "price": 349,
+        "puan": 4.9,
+        "image": "https://productimages.hepsiburada.net/s/318/1000/110000311796742.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "detail": {
-            "images": {
-                "imagebir": "url",
-                "imageiki": "url",
-                "imageüç": "url"
-            },
-            "detailtext": "text"
+            "images": [
+                "https://productimages.hepsiburada.net/s/318/1000/110000311796742.jpg",
+                "https://productimages.hepsiburada.net/s/318/1000/110000311796744.jpg",
+                "https://productimages.hepsiburada.net/s/318/1000/110000311796745.jpg",
+                "https://productimages.hepsiburada.net/s/318/1000/110000311796746.jpg"
+            ],
+            "detailtext": "Mavi nin Erkek Koleksiyonundan Batman Baskılı Siyah Sweatshirt. Ürün Özellikleri, Şardonsuz."
         }
     },
     {
         "id": 3,
-        "title": "Pantolon",
-        "categori": "Pantolon",
-        "price": 36,
-        "puan": 4.7,
-        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
+        "title": "Sivaist Yeni Sezon Erkek Lacivert Mont",
+        "categori": "Mont",
+        "price": 799,
+        "puan": 3.9,
+        "image": "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "detail": {
-            "images": {
-                "imagebir": "url",
-                "imageiki": "url",
-                "imageüç": "url"
-            },
-            "detailtext": "text"
+            "images": [
+                "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg",
+                "https://productimages.hepsiburada.net/s/166/1000/110000128357102.jpg",
+                "https://productimages.hepsiburada.net/s/166/1000/110000128357104.jpg",
+                "https://productimages.hepsiburada.net/s/166/1000/110000128357101.jpg"
+            ],
+            "detailtext": " Sivaist Yeni Sezon Erkek Lacivert Su Ve Rüzgar Geçirmez Kapüşonlu Kalın İçi Kürklü Şişme Kaban&Mont"
         }
     },
     {
         "id": 4,
-        "title": "Mont",
-        "categori": "Mont",
-        "price": 23,
-        "puan": 1.8,
-        "image": "https://st-thenorthface.mncdn.com/Content/media/ProductImg/original/637710214802524389.jpg",
+        "title": "Pierre Cardin Erkek Koyu Lacivert Denim Pantolon",
+        "categori": "Pantolon",
+        "price": 732,
+        "puan": 3.5,
+        "image": "https://productimages.hepsiburada.net/s/337/1000/110000342901833.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "detail": {
-            "images": {
-                "imagebir": "url",
-                "imageiki": "url",
-                "imageüç": "url"
-            },
-            "detailtext": "text"
+            "images": [
+                "https://productimages.hepsiburada.net/s/337/1000/110000342901833.jpg",
+                "https://productimages.hepsiburada.net/s/337/1000/110000342901834.jpg",
+                "https://productimages.hepsiburada.net/s/337/1000/110000342901835.jpg",
+                "https://productimages.hepsiburada.net/s/337/1000/110000342901836.jpg"
+            ],
+            "detailtext": "RENK: Koyu Lacivert FİT: Slim KUMAŞ: %98 Pamuk %2 Elastan - Spandeks"
         }
     },
     {
         "id": 5,
-        "title": "Pantolon",
-        "categori": "Pantolon",
-        "price": 55,
-        "puan": 2.3,
-        "image": "https://www.hatemoglu.com/lacivert-armurlu-slim-fit-kumas-pantolon-22971-kumas-pantolon-hatemoglu-29221021d006-59222-22-B.jpg",
+        "title": "Jimmy Key Kadın Siyah Bol Kesim Uzun Kollu Balıkçı Yaka Yırtmaçlı Triko Kazak",
+        "categori": "Kazak",
+        "price": 499,
+        "puan": 5,
+        "image": "https://productimages.hepsiburada.net/s/267/1000/110000252836601.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
         "detail": {
-            "images": {
-                "imagebir": "url",
-                "imageiki": "url",
-                "imageüç": "url"
-            },
-            "detailtext": "text"
+            "images": [
+                "https://productimages.hepsiburada.net/s/267/1000/110000252836601.jpg",
+                "https://productimages.hepsiburada.net/s/267/1000/110000252836601.jpg",
+                "https://productimages.hepsiburada.net/s/267/1000/110000252836602.jpg",
+                "https://productimages.hepsiburada.net/s/267/1000/110000252836603.jpg"
+            ],
+            "detailtext": "Kumaş İçeriği :%85 Akrilik, %6 Polyamid, %9 Polyester, Bol Kesim, Uzun Kollu, Balıkçı Yaka, 2022 Kış, Jimmy Key Bol Kesim Uzun Kollu Balıkçı Yaka Yırtmaçlı Triko Kazak, Boy Bilgisi: Normal."
+        }
+    },
+    {
+        "id": 6,
+        "title": "Adidas Showtheway 2.0 Erkek Günlük Spor Ayakkabı ",
+        "categori": "Spor Ayakkabı",
+        "price": 949,
+        "puan": 4.5,
+        "image": "https://productimages.hepsiburada.net/s/184/1500/110000149135564.jpg",
+        "beden": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/184/1500/110000149135564.jpg",
+                "https://productimages.hepsiburada.net/s/184/1500/110000149135565.jpg",
+                "https://productimages.hepsiburada.net/s/184/1500/110000149135566.jpg",
+                "https://productimages.hepsiburada.net/s/184/1500/110000149135567.jpg"
+            ],
+            "detailtext": "RENK: Koyu Lacivert FİT: Slim KUMAŞ: %98 Pamuk %2 Elastan - Spandeks"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Sweatshirt Oversize Fit",
+        "categori": "Sweatshirt",
+        "price": 149,
+        "puan": 4.3,
+        "image": "https://productimages.hepsiburada.net/s/325/1000/110000320162792.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/325/1000/110000320162792.jpg",
+                "https://productimages.hepsiburada.net/s/325/1000/110000320162796.jpg",
+                "https://productimages.hepsiburada.net/s/325/1000/110000320162793.jpg",
+                "https://productimages.hepsiburada.net/s/325/1000/110000320162794.jpg"
+            ],
+            "detailtext": "Pamuk karışımından üretilmiş sweatshirt kumaştan, kapüşonlu oversize üst. Kapüşonu büzgü bağlı, uzun reglan kollu, kanguru cepli, manşetleri ve etek ucu ribanalı. Içi yumuşak tüylü."
+        }
+    },
+    {
+        "id": 8,
+        "title": "İkbal Dolly Taba Hakiki Deri Mont Kadın",
+        "categori": "Deri Ceket",
+        "price": 2689,
+        "puan": 3.5,
+        "image": "https://productimages.hepsiburada.net/l/35/1000/10488210849842.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/l/35/1000/10488210849842.jpg",
+                "https://productimages.hepsiburada.net/l/35/1000/10488210948146.jpg",
+                "https://productimages.hepsiburada.net/l/35/1000/10488210980914.jpg",
+                "https://productimages.hepsiburada.net/l/35/1000/10488210915378.jpg"
+            ],
+            "detailtext": "İkbal Dolly Taba Hakiki Deri Mont Kadın Ana malzeme : Orijinal Kuzu Derisi İç astar : Pamuk Saten Önden kapamalı, iki adet yan cebi bulunmaktadır. Ürünlerimizin tamamı gerçek derilerden el işçiliği ile imal edilmektedir."
+        }
+    },
+    {
+        "id": 9,
+        "title": "Derimod Ford Erkek Deri Ceket",
+        "categori": "Deri Ceket",
+        "price": 2999,
+        "puan": 4.0,
+        "image": "https://productimages.hepsiburada.net/l/47/1000/10935029596210.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/l/47/1000/10935029596210.jpg",
+                "https://productimages.hepsiburada.net/l/47/1000/10935029628978.jpg",
+                "https://productimages.hepsiburada.net/l/47/1000/10935029661746.jpg",
+                "https://productimages.hepsiburada.net/l/47/1000/10935029694514.jpg"
+            ],
+            "detailtext": "Derimod Ford Erkek Deri Ceket"
+        }
+    },
+    {
+        "id": 10,
+        "title": "AC&Co / Altınyıldız Classics Erkek INDIGO MELANJ Slim Fit Bisiklet Yaka Kısa Kollu Pamuklu Tişört",
+        "categori": "T-Shirt",
+        "price": 119,
+        "puan": 4.7,
+        "image": "https://productimages.hepsiburada.net/s/219/1000/110000198026383.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/219/1000/110000198026383.jpg",
+                "https://productimages.hepsiburada.net/s/219/1000/110000198026384.jpg",
+                "https://productimages.hepsiburada.net/s/219/1000/110000198026386.jpg",
+                "https://productimages.hepsiburada.net/s/219/1000/110000198026385.jpg"
+            ],
+            "detailtext": "%50 Pamuk, %50 Polyester Düz Indigo Melanj, Bisiklet Yaka, Slim Fit, Kısa Kol, Cepsiz, 4 Mevsim, AC&CO / Altınyıldız Classics Slim Fit Bisiklet Yaka Kısa Kollu Pamuklu Tişört, Manken Ölçüleri: Boy:1.89Cm, Kilo:80 Kg, Ürün Bedeni:L, Ürün Kodu: 4A4800000001INJ. Yıkama Talimatı: Makine yıkama suyu sıcaklığı 30 dereceyi geçmemelidir. Trikloretilen Hariç Kuru Temizleme Kimyasalları Kullanılır. Çamaşır Suyu Konamaz. Kurutma Makinesinde Kurutulamaz. Düşük Isıda Ütülenmelidir."
+        }
+    },
+    {
+        "id": 11,
+        "title": "Jack & Jones Siyah Erkek Mont",
+        "categori": "Mont",
+        "price": 1319,
+        "puan": 4.3,
+        "image": "https://productimages.hepsiburada.net/s/266/1000/110000251091205.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/266/1000/110000251091205.jpg",
+                "https://productimages.hepsiburada.net/s/308/500/110000301049170.jpg",
+                "https://productimages.hepsiburada.net/s/308/500/110000301049168.jpg",
+                "https://productimages.hepsiburada.net/s/308/500/110000301049166.jpg"
+            ],
+            "detailtext": "-Ayarlanabilir, kapüson detaylı, düz renk puffer mont. -Sık kullandığınız şeyler için pratik Napolyon cebi. -Gövde çevresinde biraz daha fazla alan ile düzenli uyum-100% PolyesterJACK & JONES CORE"
+        }
+    },
+    {
+        "id": 12,
+        "title": "Mavi Erkek James 90s Siyah Jean Pantolon",
+        "categori": "Pantolon",
+        "price": 569,
+        "puan": 4.7,
+        "image": "https://productimages.hepsiburada.net/s/147/1000/110000101783485.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/147/1000/110000101783485.jpg",
+                "https://productimages.hepsiburada.net/s/147/1000/110000101783486.jpg",
+                "https://productimages.hepsiburada.net/s/147/1000/110000101783487.jpg",
+                "https://productimages.hepsiburada.net/s/149/1000/110000103944635.jpg"
+            ],
+            "detailtext": "Mavi nin Denim Koleksiyonundan James 90s Siyah Jean Pantolon"
+        }
+    },
+    {
+        "id": 13,
+        "title": "Koton Bisiklet Yaka Uzun Kollu Kazak",
+        "categori": "Kazak",
+        "price": 135,
+        "puan": 4.7,
+        "image": "https://productimages.hepsiburada.net/s/146/1000/110000100706006.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/146/1000/110000100706006.jpg",
+                "https://productimages.hepsiburada.net/s/146/1000/110000100706008.jpg",
+                "https://productimages.hepsiburada.net/s/146/1000/110000100706009.jpg",
+                "https://productimages.hepsiburada.net/s/146/1000/110000100706010.jpg"
+            ],
+            "detailtext": "Bisiklet Yaka Uzun Kollu Kazak"
+        }
+    },
+    {
+        "id": 14,
+        "title": "Slim Fit Gömlek Yaka Ekose Oduncu Gömlek",
+        "categori": "Gömlek",
+        "price": 399,
+        "puan": 4.8,
+        "image": "https://productimages.hepsiburada.net/s/353/1000/110000362485423.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/353/1000/110000362485423.jpg",
+                "https://productimages.hepsiburada.net/s/353/1000/110000362485426.jpg",
+                "https://productimages.hepsiburada.net/s/353/1000/110000362485424.jpg",
+                "https://productimages.hepsiburada.net/s/353/1000/110000362485425.jpg"
+            ],
+            "detailtext": "Kalın Kaşe Kumaş Slim Fit  Uzun Kol Yıkama Talimatları • 30 Derecede makinede yıkanabilir • Beyazlatıcı kullanımı önerilmez • Kurutucu kullanımı önerilmez • Tersten ve düşük ısı ile ütü önerilir • Detaylı bakım talimatları için lütfen ürün etiketini kontrol ediniz."
+        }
+    },
+    {
+        "id": 15,
+        "title": "Pierre Cardin Siyah Sweatshirt",
+        "categori": "Sweatshirt",
+        "price": 570,
+        "puan": 2.3,
+        "image": "https://productimages.hepsiburada.net/s/337/1000/110000343051476.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/337/1000/110000343051476.jpg",
+                "https://productimages.hepsiburada.net/s/337/1000/110000343051479.jpg",
+                "https://productimages.hepsiburada.net/s/337/1000/110000343051480.jpg",
+                "https://productimages.hepsiburada.net/s/337/1000/110000343051477.jpg"
+            ],
+            "detailtext": "Marka: Pierre Cardin Cinsiyet: Erkek Ürün Tanımı: Sweatshirt Renk: Siyah Fit: Standart Kumaş: %100 Pamuk"
+        }
+    },
+    {
+        "id": 16,
+        "title": "Nike Downshifter 12",
+        "categori": "Spor Ayakkabı",
+        "price": 1066,
+        "puan": 4.6,
+        "image": "https://productimages.hepsiburada.net/s/323/500/110000317586903.jpg",
+        "beden": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/323/500/110000317586903.jpg",
+                "https://productimages.hepsiburada.net/s/265/1500/110000250362075.jpg",
+                "https://productimages.hepsiburada.net/s/323/500/110000317574709.jpg",
+                "https://productimages.hepsiburada.net/s/323/500/110000317594154.jpg"
+            ],
+            "detailtext": "DD9294-001"
+        }
+    },
+    {
+        "id": 17,
+        "title": "Siyah Yüksek Bel Fitilli Tayt",
+        "categori": "Tayt",
+        "price": 134,
+        "puan": 2.7,
+        "image": "https://productimages.hepsiburada.net/s/344/1000/110000351860367.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/344/1000/110000351860367.jpg",
+                "https://productimages.hepsiburada.net/s/344/1000/110000351860367.jpg",
+                "https://productimages.hepsiburada.net/s/344/1000/110000351860368.jpg",
+                "https://productimages.hepsiburada.net/s/344/1000/110000351860369.jpg"
+            ],
+            "detailtext": "Yeni sezon yüksek bel, toparlayıcı özelliğe sahip fitilli tayt modelidir. Kaşkorse nefes alan kumaştan üretilmiştir."
+        }
+    },
+    {
+        "id": 18,
+        "title": "Puma Rebound Joy Erkek Günlük Boğazlı Spor Ayakkabı",
+        "categori": "Spor Ayakkabı",
+        "price": 1098,
+        "puan": 4.7,
+        "image": "https://productimages.hepsiburada.net/s/300/1500/110000290949436.jpg",
+        "beden": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/300/1500/110000290949436.jpg",
+                "https://productimages.hepsiburada.net/s/300/1500/110000290949571.jpg",
+                "https://productimages.hepsiburada.net/s/300/1500/110000291101004.jpg",
+                "https://productimages.hepsiburada.net/s/300/1500/110000290905087.jpg"
+            ],
+            "detailtext": " -Kalıbı Anatomik Kalıp - Dışı Pu İthal Malzeme - İçi Tekstil - Tabanı Kauçuk Taban"
+        }
+    },
+    {
+        "id": 19,
+        "title": "Swoops Outdoors Erkek Oversize Baskılı Pamuklu Bisiklet Yaka Kısa Kollu T-Shirt",
+        "categori": "T-Shirt",
+        "price": 168,
+        "puan": 2.5,
+        "image": "https://productimages.hepsiburada.net/s/352/1000/110000360841753.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/352/1000/110000360841753.jpg",
+                "https://productimages.hepsiburada.net/s/352/1000/110000360841754.jpg",
+                "https://productimages.hepsiburada.net/s/352/1000/110000360841755.jpg",
+                "https://productimages.hepsiburada.net/s/352/1000/110000360841756.jpg"
+            ],
+            "detailtext": "Erkek Oversize Baskılı Pamuklu Bisiklet Yaka Kısa Kollu T-shirt, Nefes alan kumaştır, oversize bir üründür efsane modellerimizdendir."
+        }
+    },
+    {
+        "id": 20,
+        "title": "Jack & Jones Jcobach Mont",
+        "categori": "Mont",
+        "price": 1499,
+        "puan": 4.1,
+        "image": "https://productimages.hepsiburada.net/s/283/1000/110000271220591.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/283/1000/110000271220591.jpg",
+                "https://productimages.hepsiburada.net/s/283/1000/110000271220592.jpg",
+                "https://productimages.hepsiburada.net/s/283/1000/110000271220593.jpg",
+                "https://productimages.hepsiburada.net/s/283/1000/110000271220595.jpg"
+            ],
+            "detailtext": "Jack & Jones Jcobach Parka"
+        }
+    },
+    {
+        "id": 21,
+        "title": "Mavi Erkek TOKK Serisi Leo 90s Mavi Jean Pantolon",
+        "categori": "Pantolon",
+        "price": 569,
+        "puan": 3.3,
+        "image": "https://productimages.hepsiburada.net/s/149/1000/110000103945499.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/149/1000/110000103945499.jpg",
+                "https://productimages.hepsiburada.net/s/149/1000/110000103946450.jpg",
+                "https://productimages.hepsiburada.net/s/149/1000/110000103946451.jpg",
+                "https://productimages.hepsiburada.net/s/149/1000/110000103946452.jpg"
+            ],
+            "detailtext": "Mavi Leo 90S Mavi Jean Pantolon Mavi nin Erkek Koleksiyonundan Leo 90s Mavi Jean Pantolon"
+        }
+    },
+    {
+        "id": 22,
+        "title": "Quiksilver Kayak Montu",
+        "categori": "Mont",
+        "price": 6719,
+        "puan": 2.3,
+        "image": "https://productimages.hepsiburada.net/s/152/600-800/110000107942897.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/152/600-800/110000107942897.jpg",
+                "https://productimages.hepsiburada.net/s/152/1000/110000107942896.jpg",
+                "https://productimages.hepsiburada.net/s/152/1000/110000107942898.jpg",
+                "https://productimages.hepsiburada.net/s/152/1000/110000107942899.jpg"
+            ],
+            "detailtext": "Quiksilver Kapüşonlu Desenli Erkek Kayak Montu"
+        }
+    },
+    {
+        "id": 23,
+        "title": "Frankness Jeans Pacos Kargo Pantolon Rahat Kesim Erkek Kargo Pantolon",
+        "categori": "Pantolon",
+        "price": 500,
+        "puan": 4.3,
+        "image": "https://productimages.hepsiburada.net/s/104/1000/110000047765681.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/104/1000/110000047765681.jpg",
+                "https://productimages.hepsiburada.net/s/104/1000/110000047765678.jpg",
+                "https://productimages.hepsiburada.net/s/104/1000/110000047765679.jpg",
+                "https://productimages.hepsiburada.net/s/104/1000/110000047765680.jpg"
+            ],
+            "detailtext": "Ürünümüz kumaş olarak Gabardin likralı kumaştan üretilmiştir kargo cepli herkesin gidebileceği çok rahat bir üründür manken boyu 179 kilosu 76 giydiği beden 31 dir. 1 beden küçük almanızı tavsiye ederiz."
+        }
+    },
+    {
+        "id": 24,
+        "title": "Built By Crazy Pikachu Coffee Unisex Tişört",
+        "categori": "T-Shirt",
+        "price": 99,
+        "puan": 2.8,
+        "image": "https://productimages.hepsiburada.net/s/352/1000/110000360606179.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/352/1000/110000360606179.jpg",
+                "https://productimages.hepsiburada.net/s/352/1000/110000360606179.jpg",
+                "https://productimages.hepsiburada.net/s/352/1000/110000360606180.jpg",
+                "https://productimages.hepsiburada.net/s/352/1000/110000360606181.jpg"
+            ],
+            "detailtext": "%100 pamuk penye kumaştan Türkiye 'de üretilmiştir. Su bazlı boya kullanılarak dijital baskı veya emprime baskı tekniği ile basılmıştır. Ürünler ters çevirilerek 30°C 'de yıkanmalıdır. Doğru bedeni sipariş verebilmek için mevcut kullandığınız bir tişört ölçüleri ile aşağıdaki değerleri karşılaştırabilirsiniz. Unisex oversize tişört ölçü tablosu aşağıdadır."
+        }
+    },
+    {
+        "id": 25,
+        "title": "Prifaldi Erkek Haki Su ve Rüzgar Geçirmez Softshell Mont",
+        "categori": "Mont",
+        "price": 599,
+        "puan": 4.0,
+        "image": "https://productimages.hepsiburada.net/s/313/1000/110000306854303.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/313/1000/110000306854303.jpg",
+                "https://productimages.hepsiburada.net/s/313/1000/110000306854304.jpg",
+                "https://productimages.hepsiburada.net/s/313/1000/110000306854306.jpg",
+                "https://productimages.hepsiburada.net/s/313/1000/110000306854307.jpg"
+            ],
+            "detailtext": "Ürün gore-Tex kumaşı sayesinde su ve rüzgâr geçirmezlik özelliğine sahiptir.Ürünün ayrıca fermuar kısmı da su geçirmezlik özelliğine sahiptir. Ürünün iç kısmı kürklüdür ve kış aylarında kullanım için uygundur, terletme yapmayan bir yapıya sahiptir. Iç kısmında cep mevcuttur. Iç astarının ürünün altından ve kol kısımlarından sarkmaması için özel dikişleri mevcuttur. "
+        }
+    },
+    {
+        "id": 26,
+        "title": "HYMAN CLASSIC Klasik Kesim Erkek Kumaş Pantolon",
+        "categori": "Pantolon",
+        "price": 249,
+        "puan": 4.3,
+        "image": "https://productimages.hepsiburada.net/s/263/1000/110000247456236.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/263/1000/110000247456236.jpg",
+                "https://productimages.hepsiburada.net/s/263/1000/110000247456235.jpg",
+                "https://productimages.hepsiburada.net/s/263/1000/110000247456237.jpg",
+                "https://productimages.hepsiburada.net/s/263/1000/110000247456238.jpg"
+            ],
+            "detailtext": "·  Kumaş Özellikleri: %65 Viskon, %35Polyester  · Mevsimlik Kumaş · Klasik Kesim"
+        }
+    },
+    {
+        "id": 27,
+        "title": "June Çizgili Bol Kesim Triko Kazak",
+        "categori": "Kazak",
+        "price": 259,
+        "puan": 1.3,
+        "image": "https://productimages.hepsiburada.net/s/343/1000/110000350556811.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/343/1000/110000350556811.jpg",
+                "https://productimages.hepsiburada.net/s/343/1000/110000350556807.jpg",
+                "https://productimages.hepsiburada.net/s/343/1000/110000350556809.jpg",
+                "https://productimages.hepsiburada.net/s/343/1000/110000350556810.jpg"
+            ],
+            "detailtext": "%100 Akrilik"
+        }
+    },
+    {
+        "id": 28,
+        "title": "For You Moda Kadın Saten 8 li Sabahlıklı Dantelli Pijama Takımı Bordo",
+        "categori": "Pijama",
+        "price": 399,
+        "puan": 4.5,
+        "image": "https://productimages.hepsiburada.net/s/258/1000/110000241658587.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/258/1000/110000241658587.jpg",
+                "https://productimages.hepsiburada.net/s/118/1000/110000067910248.jpg",
+                "https://productimages.hepsiburada.net/s/118/1000/110000067910249.jpg",
+                "https://productimages.hepsiburada.net/s/118/1000/110000067910240.jpg"
+            ],
+            "detailtext": "%95 Polyester %5 Elestan"
+        }
+    },
+    {
+        "id": 29,
+        "title": "Pierre Cardin 12 Çift Karışık Pamuk Soket Erkek Çorap 4 Mevsim",
+        "categori": "Çorap",
+        "price": 114,
+        "puan": 2.6,
+        "image": "https://productimages.hepsiburada.net/s/163/500/110000121315482.jpg",
+        "beden": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/163/500/110000121315482.jpg",
+                "https://productimages.hepsiburada.net/s/163/500/110000121315483.jpg",
+                "https://productimages.hepsiburada.net/s/163/500/110000121315484.jpg"
+            ],
+            "detailtext": "%80 Pamuk %17 Polyamid %3 Elastan"
+        }
+    },
+    {
+        "id": 30,
+        "title": "Harley Davidson Jim Black Nubuk Bot",
+        "categori": "Bot",
+        "price": 1467,
+        "puan": 4.4,
+        "image": "https://productimages.hepsiburada.net/s/46/1000/10860365938738.jpg",
+        "beden": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/46/1000/10860365938738.jpg",
+                "https://productimages.hepsiburada.net/s/46/1000/10860365971506.jpg",
+                "https://productimages.hepsiburada.net/s/46/1000/10860366004274.jpg",
+                "https://productimages.hepsiburada.net/s/46/1000/10860366037042.jpg"
+            ],
+            "detailtext": "Tarz/Stil : Casual Model : JIM Topuk Boyu : 4 cm Taban : Kauçuk İç Materyal : Polyester Dış Materyal: Nubuk"
+        }
+    },
+    {
+        "id": 31,
+        "title": "DeFacto Erkek Desenli 5'li Patik Çorap",
+        "categori": "Çorap",
+        "price": 45,
+        "puan": 4.5,
+        "image": "https://productimages.hepsiburada.net/s/340/1000/110000346739600.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/340/1000/110000346739600.jpg",
+                "https://productimages.hepsiburada.net/s/340/1000/110000346739606.jpg",
+                "https://productimages.hepsiburada.net/s/340/1000/110000346739605.jpg",
+                "https://productimages.hepsiburada.net/s/340/1000/110000346739602.jpg"
+            ],
+            "detailtext": "Gün boyu rahat ve konforlu bir kullanım sağlayan DeFacto Desenli Patik Çorapı hemen sipariş verin, ürününüzü evinizden teslim almanın keyfini yaşayın. Elastan 2%,Poliester 34%,Pamuk 64%"
+        }
+    },
+    {
+        "id": 32,
+        "title": "Jack & Jones Normal Bel Düz Mavi Erkek Şort",
+        "categori": "Şort",
+        "price": 256,
+        "puan": 3.8,
+        "image": "https://productimages.hepsiburada.net/s/275/1000/110000261889760.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/275/1000/110000261889760.jpg",
+                "https://productimages.hepsiburada.net/s/275/1000/110000261889764.jpg",
+                "https://productimages.hepsiburada.net/s/275/1000/110000261889766.jpg",
+                "https://productimages.hepsiburada.net/s/275/1000/110000261889762.jpg"
+            ],
+            "detailtext": "- Detay Türü : Kot Şort - Kumaş : Jack &Amp; Jones Super Stretch %50 Ürünleri Son Derece Esnektir Ve Aktif Yaşamınızda İhtiyacınız Olan Rahatlığı Sağlar. Lif Karışımı, Kumaşın Şeklini Korurken %50'Ye Kadar Esnemesini Sağlar. Bu Super Stretch %50 Ürünlerle Gerçek Bir Şortta İnanılmaz Rahatlığı Yaşayacaksınız. - Kapanış/Uçan : Düğme Sinek - Uzunluk/Beden : Diz Üstü - Bel/Kalkış : Normal Kalkış - Durum/Stil: Orijinal, Klasik Beş Cepli Detaylandırmadır; Zamansız, Basit Ve En Başından Beri Olduğu Gibi. Onu Her Zaman Güvenebileceğiniz, İyi Bir Kot Pantolonun Olması Gerektiği Gibi Yapan Şey Budur."
+        }
+    },
+    {
+        "id": 33,
+        "title": "Standart Fit Günlük Rahat Spor Şort",
+        "categori": "Şort",
+        "price": 199,
+        "puan": 4.2,
+        "image": "https://productimages.hepsiburada.net/s/219/1000/110000198829713.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/219/1000/110000198829713.jpg",
+                "https://productimages.hepsiburada.net/s/219/1000/110000198829714.jpg",
+                "https://productimages.hepsiburada.net/s/219/1000/110000198829715.jpg",
+                "https://productimages.hepsiburada.net/s/219/1000/110000198829717.jpg"
+            ],
+            "detailtext": "%82 Polyester, %15 Viskoz, %3 Elastan, Antrasit Melanj, Casual Model, Standart Fit, Cepli, Normal Bel, Yaz Koleksiyonu, AC&Co / Altınyıldız Classics Standart Fit Günlük Rahat Spor Örme Şort, Ürün Bedeni: L, Manken Bilgileri: 1.89Cm, Kilo: 80Kg"
+        }
+    },
+    {
+        "id": 34,
+        "title": "Casio AE-1200WHD-1AVDF Digital Kol Saati",
+        "categori": "Kol Saati",
+        "price": 879,
+        "puan": 4.6,
+        "image": "https://productimages.hepsiburada.net/s/19/1500/9852947628082.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/19/1500/9852947628082.jpg",
+                "https://productimages.hepsiburada.net/s/19/1500/9852947660850.jpg",
+                "https://productimages.hepsiburada.net/s/19/1500/9852947693618.jpg",
+                "https://productimages.hepsiburada.net/s/19/1500/9852947726386.jpg"
+            ],
+            "detailtext": "Casio AE-1200WHD-1AVDF Digital Erkek Kol Saati Takvim Var Kadran Rengi Gri Kordon Cinsi Kordon Rengi Gri Kasa Cinsi: Plastik Kasa Çapı: 42,1 Ağırlık: 91 Kasa Kalınlığı: 12,5 Işıklı Dünya Saatleri"
+        }
+    },
+    {
+        "id": 35,
+        "title": "Modalucci Yeni Sezon Güneş Gözlüğü",
+        "categori": "Güneş Gözlüğü",
+        "price": 48,
+        "puan": 1.6,
+        "image": "https://productimages.hepsiburada.net/s/274/1500/110000260421929.jpg",
+        "beden": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "detail": {
+            "images": [
+                "https://productimages.hepsiburada.net/s/274/1500/110000260421929.jpg",
+                "https://productimages.hepsiburada.net/s/274/1500/110000260421930.jpg",
+                "https://productimages.hepsiburada.net/s/274/1500/110000260421932.jpg",
+                "https://productimages.hepsiburada.net/s/274/1500/110000260421933.jpg"
+            ],
+            "detailtext": "ModaLucci Güvencesi Altında 1 yıl garantilidir. Koruma kutusunda gönderilecektir."
         }
     }
 ]
