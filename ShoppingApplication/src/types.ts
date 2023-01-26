@@ -51,3 +51,7 @@ export type UserAboutProps = {
     EditPress: () => void;
     item: any;
 };
+
+export type OrderSituationProps = {
+    Durum: string;
+};

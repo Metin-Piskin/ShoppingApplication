@@ -1,4 +1,4 @@
-import { StyleSheet } from "react-native";
+import { Dimensions, StyleSheet } from "react-native";
 
 export default StyleSheet.create({
     tabbarcontaier: {
@@ -31,4 +31,44 @@ export default StyleSheet.create({
         paddingHorizontal: 20,
         paddingVertical: 10
     },
+    Ordercontainer: {
+        flexDirection: 'row',
+        width: Dimensions.get('screen').width - 20,
+        maxWidth: Dimensions.get('screen').width - 20,
+        height:110,
+        maxHeight:110,
+        justifyContent: 'space-around',
+        backgroundColor: "#F9AA33",
+        marginHorizontal: 10,
+        marginVertical: 10,
+        borderRadius: 10
+    },
+    Ordertitleimage: {
+        width: 100,
+        height: 100,
+        resizeMode: 'contain',
+        marginVertical: 5,
+        borderRadius: 5
+    },
+    OrderModalcontainer: {
+        //backgroundColor: 'red',
+        marginTop: -10,
+        marginBottom: 10,
+        marginHorizontal: 10,
+        borderRadius: 10
+    },
+    siparişcontainer: {
+        flexDirection: 'row',
+        backgroundColor: "#F9AA33",
+        marginTop: 5,
+        alignItems: 'center',
+        borderRadius: 5
+    },
+    siparişimage: {
+        width: 50,
+        height: 50,
+        resizeMode: 'contain',
+        marginHorizontal: 5,
+        borderRadius: 5
+    }
 })
