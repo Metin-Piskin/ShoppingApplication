@@ -1,13 +1,14 @@
 import React, { FC } from 'react';
 import { View, Text, Image, TouchableOpacity } from 'react-native';
 import Feather from 'react-native-vector-icons/Feather';
+import Ionicons from 'react-native-vector-icons/Ionicons';
 import { UserAboutProps } from '../../types';
 
 import styles from './UserAbout-style';
 
 const ppimage = 'https://t4.ftcdn.net/jpg/01/17/95/91/360_F_117959178_mOp22kjhdhWdoSoePHPafN7GLUYyvFNY.jpg'
 
-const UserAbout: FC<UserAboutProps> = ({ EditPress, item }) => {
+const UserAbout: FC<UserAboutProps> = ({ EditPress, item, ExitPress }) => {
     return (
         <View style={styles.container}>
             <TouchableOpacity
@@ -18,6 +19,16 @@ const UserAbout: FC<UserAboutProps> = ({ EditPress, item }) => {
                     name='edit'
                     color={'#232F34'}
                     size={22}
+                />
+            </TouchableOpacity>
+            <TouchableOpacity
+                onPress={ExitPress}
+                style={styles.exitbutton}
+            >
+                <Ionicons
+                    name='exit-outline'
+                    color={'#232F34'}
+                    size={27}
                 />
             </TouchableOpacity>
             <Image

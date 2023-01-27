@@ -111,9 +111,14 @@ const Search = () => {
 
             </View>
             <ScrollView
-                style={{ marginBottom: 135, zIndex: -5 }}
+                style={{ marginBottom: 120, zIndex: -5 }}
             >
-                <View style={{ flexDirection: 'row', flexWrap: 'wrap' }}>
+                <View style={{
+                    flexDirection: 'row',
+                    flexWrap: 'wrap',
+                    gap: 10,
+                    justifyContent: 'center'
+                }}>
                     {
                         products.map((item) => {
                             return (

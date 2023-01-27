@@ -5,53 +5,116 @@
         "durum": "Teslim Edildi",
         "siparişler": [
             {
-                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
                 "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
                 "categori": "T-Shirt",
                 "price": 90,
-                "puan": 4.9
+                "puan": 4.9,
+                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg"
             },
             {
-                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
-                "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
-                "categori": "T-Shirt",
-                "price": 90,
-                "puan": 4.9
+                "title": "Kuşaklı Içi Şortlu Etek Siyah",
+                "categori": "Etek",
+                "price": 279,
+                "puan": 4.9,
+                "image": "https://productimages.hepsiburada.net/s/314/1000/110000307072162.jpg"
             },
             {
-                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
-                "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
-                "categori": "T-Shirt",
-                "price": 90,
-                "puan": 4.9
-            },
-            {
-                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
-                "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
-                "categori": "T-Shirt",
-                "price": 90,
-                "puan": 4.9
-            },
-            {
-                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
-                "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
-                "categori": "T-Shirt",
-                "price": 90,
-                "puan": 4.9
+                "title": "Mavi Batman Baskılı Siyah Sweatshirt",
+                "categori": "Sweatshirt",
+                "price": 349,
+                "puan": 4.9,
+                "image": "https://productimages.hepsiburada.net/s/318/1000/110000311796742.jpg"
             }
         ]
     },
     {
-        "titleimage": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
+        "titleimage": "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg",
         "titledate": "15 Ara 2021 14:09",
         "durum": "İptal Edildi",
         "siparişler": [
             {
-                "image": "https://productimages.hepsiburada.net/s/68/1000/110000009631891.jpg",
-                "title": "Mavi Erkek Mavi Logo Baskılı Kırmızı Tişört",
+                "title": "Sivaist Yeni Sezon Erkek Lacivert Mont",
+                "categori": "Mont",
+                "price": 799,
+                "puan": 3.9,
+                "image": "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg"
+            }
+        ]
+    },
+    {
+        "titleimage": "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg",
+        "titledate": "15 Ara 2021 14:09",
+        "durum": "İade Edildi",
+        "siparişler": [
+            {
+                "title": "Pierre Cardin Erkek Koyu Lacivert Denim Pantolon",
+                "categori": "Pantolon",
+                "price": 732,
+                "puan": 3.5,
+                "image": "https://productimages.hepsiburada.net/s/337/1000/110000342901833.jpg"
+            },
+            {
+                "title": "Jimmy Key Kadın Siyah Bol Kesim Uzun Kollu Balıkçı Yaka Yırtmaçlı Triko Kazak",
+                "categori": "Kazak",
+                "price": 499,
+                "puan": 5,
+                "image": "https://productimages.hepsiburada.net/s/267/1000/110000252836601.jpg"
+            }
+        ]
+    },
+    {
+        "titleimage": "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg",
+        "titledate": "15 Ara 2021 14:09",
+        "durum": "Teslim Edildi",
+        "siparişler": [
+            {
+                "title": "Adidas Showtheway 2.0 Erkek Günlük Spor Ayakkabı ",
+                "categori": "Spor Ayakkabı",
+                "price": 949,
+                "puan": 4.5,
+                "image": "https://productimages.hepsiburada.net/s/184/1500/110000149135564.jpg"
+            },
+            {
+                "title": "Sweatshirt Oversize Fit",
+                "categori": "Sweatshirt",
+                "price": 149,
+                "puan": 4.3,
+                "image": "https://productimages.hepsiburada.net/s/325/1000/110000320162792.jpg"
+            }
+        ]
+    },
+    {
+        "titleimage": "https://productimages.hepsiburada.net/s/166/1000/110000128357100.jpg",
+        "titledate": "15 Ara 2021 14:09",
+        "durum": "İade Edildi",
+        "siparişler": [
+            {
+                "title": "İkbal Dolly Taba Hakiki Deri Mont Kadın",
+                "categori": "Deri Ceket",
+                "price": 2689,
+                "puan": 3.5,
+                "image": "https://productimages.hepsiburada.net/l/35/1000/10488210849842.jpg"
+            },
+            {
+                "title": "AC&Co / Altınyıldız Classics Erkek INDIGO MELANJ Slim Fit Bisiklet Yaka Kısa Kollu Pamuklu Tişört",
                 "categori": "T-Shirt",
-                "price": 90,
-                "puan": 4.9
+                "price": 119,
+                "puan": 4.7,
+                "image": "https://productimages.hepsiburada.net/s/219/1000/110000198026383.jpg"
+            },
+            {
+                "title": "Mavi Erkek James 90s Siyah Jean Pantolon",
+                "categori": "Pantolon",
+                "price": 569,
+                "puan": 4.7,
+                "image": "https://productimages.hepsiburada.net/s/147/1000/110000101783485.jpg"
+            },
+            {
+                "title": "Nike Downshifter 12",
+                "categori": "Spor Ayakkabı",
+                "price": 1066,
+                "puan": 4.6,
+                "image": "https://productimages.hepsiburada.net/s/323/500/110000317586903.jpg"
             }
         ]
     }

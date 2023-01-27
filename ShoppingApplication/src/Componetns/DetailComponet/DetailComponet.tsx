@@ -1,5 +1,6 @@
 import React, { FC, useEffect, useState } from 'react';
 import { View, Text, Image, TouchableOpacity, ScrollView } from 'react-native';
+import AntDesign from 'react-native-vector-icons/AntDesign';
 import { DetailComponetProps } from '../../types';
 
 import styles from './DetailComponet-style';
@@ -45,9 +46,16 @@ const DetailComponet: FC<DetailComponetProps> = ({ prop }) => {
                 <Text style={styles.categoritext}>
                     {prop.categori}
                 </Text>
-                <Text style={styles.puantext}>
-                    {prop.puan}/5
-                </Text>
+                <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+                    <AntDesign
+                        name='star'
+                        color={"#F9AA33"}
+                        size={15}
+                    />
+                    <Text style={styles.puantext}>
+                        {prop.puan}/5
+                    </Text>
+                </View>
             </View>
             <View style={{ flexDirection: 'row', justifyContent: 'center' }}>
                 {

@@ -13,13 +13,8 @@ import styles from './Basket-style';
 import OrderData from '../../Data/OrderData.json';
 
 const Basket = () => {
-    const [modal, setModal] = useState<boolean>(false);
     const [status, setStatus] = useState<string>('Tümü');
-
-    const handlefilter = (status: string, value: string) => {
-        setStatus(status);
-    }
-
+    const [modal, setModal] = useState<boolean>(false);
     const [CurrentLoggedInUser, setCurrentLoggedInUser] = useState<any>(true)
     const [loading, setLoading] = useState<any>(true);
 
@@ -39,10 +34,15 @@ const Basket = () => {
         }
     }, [])
 
+    const handlefilter = (status: string, value: string) => {
+        setStatus(status);
+    }
+
     return (
         <ScrollView>
             <UserAbout
                 EditPress={() => null}
+                ExitPress={() => auth().signOut()}
                 item={CurrentLoggedInUser}
             />
             <SearchInput
@@ -70,7 +70,7 @@ const Basket = () => {
             {
                 OrderData.map((e, index) => {
                     const [ordermodal, setOrdermodal] = useState<boolean>(false);
-                    const totalprice = e.siparişler.map(e => e.price)
+                    const totalprice = e.siparişler.map(e => e.price);
                     return (
                         <View key={index}>
                             <TouchableOpacity
@@ -163,11 +163,6 @@ const Basket = () => {
                     )
                 })
             }
-
-            <Button
-                title='Exit'
-                onPress={() => auth().signOut()}
-            />
         </ScrollView>
     )
 }

@@ -14,6 +14,11 @@ export default StyleSheet.create({
         right: 10,
         top: 10
     },
+    exitbutton: {
+        position: 'absolute',
+        right: 10,
+        bottom: 10
+    },
     image: {
         width: 100,
         height: 100,

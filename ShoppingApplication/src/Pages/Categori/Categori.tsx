@@ -28,7 +28,13 @@ const Categori = () => {
                 title={item.title}
                 onPress={() => navigation.goBack()}
             />
-            <View style={{ flexDirection: 'row', flexWrap: 'wrap' }}>
+            <View style={{
+                flexDirection: 'row',
+                flexWrap: 'wrap',
+                gap: 10,
+                justifyContent: 'center',
+                marginTop:10
+            }}>
                 {
                     veri.map((item) => {
                         return (

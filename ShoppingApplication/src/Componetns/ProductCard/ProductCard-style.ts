@@ -2,9 +2,10 @@ import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
     container: {
-        marginLeft: 10,
-        marginTop: 10,
-        
+        borderWidth: 1,
+        borderRadius: 5,
+        padding: 15,
+        borderColor: "#F9AA33"
     },
     image: {
         width: 85,
@@ -17,5 +18,13 @@ export default StyleSheet.create({
         maxWidth: 84,
         textAlign: 'center',
     },
-    price: {},
+    puancontainer: {
+        flexDirection: 'row',
+        alignItems: 'center'
+    },
+    puantext: {},
+    price: {
+        textAlign: 'center',
+        fontSize: 16
+    },
 })

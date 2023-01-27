@@ -49,6 +49,7 @@ export type DetailComponetProps = {
 
 export type UserAboutProps = {
     EditPress: () => void;
+    ExitPress: () => void;
     item: any;
 };
 
